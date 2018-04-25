@@ -1,1 +1,1 @@
-# [srimajji.github.io](https://srikanth.io)
+# [srikanth.io](https://srikanth.io)
