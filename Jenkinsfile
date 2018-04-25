@@ -10,7 +10,7 @@ pipeline {
   stages {
       stage('Build') {
         steps {
-            sh 'npm i now -g'
+            sh 'npm i now -g --unsafe-perm'
         }
       }
     stage('Deploy') {
